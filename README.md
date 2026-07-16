@@ -3,7 +3,10 @@
 A modern Full-Stack Weather Dashboard built with React, Vite, Express.js, MongoDB Atlas, and OpenWeather API.
 
 ---
+## 📷 Project Preview
 
+![Weather Dashboard Preview](<img width="1920" height="722" alt="dashboaredpic png" src="https://github.com/user-attachments/assets/788a2c21-c0fe-4787-bf63-9beab9ebb985" />
+)
 ## 🚀 Live Demo
 
 🌐 **Live Demo:** [Weather Dashboard](https://weather-dashboard-p4v5xms1r-itsme15.vercel.app)
