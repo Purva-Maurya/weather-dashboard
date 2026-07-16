@@ -6,7 +6,7 @@ A modern Full-Stack Weather Dashboard built with React, Vite, Express.js, MongoD
 
 ## 🚀 Live Demo
 
-🌐 Frontend: weather-dashboard-p4v5xms1r-itsme15.vercel.app
+🌐 Frontend: weather-dashboard-gold-beta.vercel.app
 
 ⚙️ Backend API: https://weather-dashboard-rjei.onrender.com
 
